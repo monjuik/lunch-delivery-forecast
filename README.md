@@ -18,8 +18,8 @@
 
 1. Установите [Anaconda Individual edition](https://www.anaconda.com/products/individual),
 2. У меня она отказывалась обновлять модули и ставить новые, поэтому я делал это через [miniconda](https://docs.conda.io/en/latest/miniconda.html#macosx-installers):
-   3. `conda install pandas`,
-   4. `conda install pydot`,
+   1. `conda install pandas`,
+   1. `conda install pydot`,
 5. Запустите Anaconda Navigator,
 6. Запустите Jupyter Notebook,
 7. Используйте приложенный `slq-lunch.ipynb`.
